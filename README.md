@@ -9,19 +9,12 @@
 ▶In cricket🏏 it detects the following actions:
 
 Bowling
-
 Stance
-
 Drive
-
 Pull
-
 Lofted Drive
-
 Flick
-
 Reverse Sweep
-
 
 ▶Dataset Link🔗: https://drive.google.com/drive/folders/1DucqRBdl2Xm1mhgcQtXlvT8xmWUi3C_I?usp=drive_link
 
@@ -31,13 +24,9 @@ Reverse Sweep
 ▶The following actions are detected in volleyball🏐:
 
 Service
-
 Setting
-
 Take
-
 Smash
-
 Blocking
 
 ▶Dataset Link🔗:
@@ -51,15 +40,10 @@ https://drive.google.com/drive/folders/1YHMHyKHrMoThYxd0OMPu0aeR1H1KalQE?usp=dri
 Serve
 
 Forehand Groundstroke 
-
 Backhand Groundstroke 
-
 Forehand Volley
-
 Backhand Volley
-
 Overhead Smash
-
 
 
 ▶Dataset Link🔗:
